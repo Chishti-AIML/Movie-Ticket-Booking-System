@@ -1,26 +1,24 @@
-# 🎬 Movie Ticket Booking System
+# Movie Ticket Booking System
 
-A simple console-based Movie Ticket Booking System built using Java.
+This is a simple console-based Movie Ticket Booking System made using Java.
 
-## 📌 About the Project
+## About the Project
 
-This project allows users to view movies, check available seats, book a movie ticket, cancel a booking, and view booking details.
+The project allows the user to view movies, check available seats, book a ticket, cancel a ticket, and view booking details.
 
-It is a beginner-level Java project created to practice Java programming and Object-Oriented Programming concepts.
+I made this project to practice the basic Java and OOP concepts that I have learned.
 
-## ✨ Features
+## Features
 
 - View available movies
-- View cinema seat layout
-- Book a movie ticket
-- Check seat availability
+- View seats
+- Book a ticket
 - Cancel a ticket
 - View booking details
-- Exit the application
+- Check whether a seat is available or already booked
 
-## 🛠️ Concepts Used
+## Concepts Used
 
-- Java
 - Classes and Objects
 - Constructors
 - Methods
@@ -30,18 +28,9 @@ It is a beginner-level Java project created to practice Java programming and Obj
 - Loops
 - If-Else
 - Switch Case
-- Scanner for user input
+- Scanner
 
-## 🎟️ How It Works
-
-The cinema has 4 rows and 5 seats in each row.
-
-- `O` = Available seat
-- `X` = Booked seat
-
-The user can select a movie and choose an available seat to book a ticket.
-
-## ▶️ How to Run
+## How to Run
 
 Compile the program:
 
